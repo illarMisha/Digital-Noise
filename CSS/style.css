@@ -1264,6 +1264,9 @@ body {
   .header {
     min-height: 450px;
   }
+  .header .header__line {
+    display: none;
+  }
   .description__ada .description__img .ada__img {
     width: 160px;
   }

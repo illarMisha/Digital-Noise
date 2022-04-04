@@ -862,6 +862,9 @@
 @media (max-height:450px){
     .header{
         min-height: 450px;
+            .header__line{
+                display: none;
+            }
     }
     .description__ada{
 
